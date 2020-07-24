@@ -1,0 +1,12 @@
+@import '~./variable.scss';
+
+.grid {
+  display: grid;
+}
+
+.red {
+  color: $red;
+}
+.flex {
+  display: flex;
+}
